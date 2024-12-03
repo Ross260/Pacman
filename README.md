@@ -1,4 +1,3 @@
-# Pacman
 
 # Projet de Groupe : Pac-Man
 
