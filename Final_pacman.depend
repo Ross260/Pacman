@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1732975594 source:c:\users\student\desktop\final_pacman\audio.c
+	<allegro.h>
+	"audio.h"
+
+1732974779 c:\users\student\desktop\final_pacman\audio.h
+	<allegro.h>
+
+1733135695 source:c:\users\student\desktop\final_pacman\game.c
+	<allegro.h>
+	"game.h"
+	<stdlib.h>
+	"audio.h"
+	"resources.h"
+	"levels.h"
+	<stdbool.h>
+
+1732991484 c:\users\student\desktop\final_pacman\game.h
+
+1732982603 c:\users\student\desktop\final_pacman\resources.h
+	<allegro.h>
+
+1732991667 c:\users\student\desktop\final_pacman\levels.h
+
+1733003905 source:c:\users\student\desktop\final_pacman\levels.c
+	"levels.h"
+
+1732991043 source:c:\users\student\desktop\final_pacman\main.c
+	<allegro.h>
+	"game.h"
+	"audio.h"
+	"levels.h"
+
+1732988564 source:c:\users\student\desktop\final_pacman\resources.c
+	<allegro.h>
+	"resources.h"
+
