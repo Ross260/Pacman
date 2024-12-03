@@ -1,4 +1,3 @@
-
 # Projet de Groupe : Pac-Man
 
 **Pac-Man** est un jeu classique d'arcade où le joueur contrôle une petite créature jaune dans un labyrinthe. Le but du jeu est de manger tous les points disséminés dans le labyrinthe tout en évitant les fantômes. Des bonus ("power-ups") permettent temporairement de rendre Pac-Man invincible, lui donnant la capacité de manger les fantômes pour marquer des points supplémentaires.
